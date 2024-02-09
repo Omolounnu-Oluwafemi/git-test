@@ -1,0 +1,43 @@
+
+table {
+    border: 1px groove red;
+    margin: 100px auto;
+}
+
+td, th {
+    width: 80px;
+    height: 80px;
+}
+
+#black {
+    width: 80px;
+    background-color: black;
+}
+
+#white {
+    width: 80px;
+    background-color: white;
+}
+
+/* table {
+    margin: auto;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+}
+
+.vertical {
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.horizontal{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+td:hover{
+    border: 1px solid red
+} */
